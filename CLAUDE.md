@@ -6,7 +6,7 @@ this repository.
 ## What this is
 
 A repository with no code. It exists to host the GitHub Discussions that
-[giscus](https://giscus.app) maps reader comments to for the church-space storyline thread of *Fian Ilchruinne* (the work formerly titled *Star Rangers*), the Communion of the Called's devotional overlay. Every page of that thread posts here on any domain that renders it, because the thread names this profile in star-rangers' `lib/storyline-threads.js`; since 2026-09-04 no domain uses it as its whole build board, and the thread itself is tier-gated to the contemplative editions rather than flagged private. The README's phrase *private storyline thread* predates that ruling and describes the same gating in older words. On GitHub this repository is a fork of the sister board.
+[giscus](https://giscus.app) maps reader comments to for the church-space storyline thread of *Fian Ilchruinne* (the work formerly titled *Star Rangers*), the Communion of the Called's devotional overlay. Every page of that thread posts here on any domain that renders it, because the thread names this profile in star-rangers' `lib/storyline-threads.js`; since 2026-09-04 no domain uses it as its whole build board, and the thread itself is tier-gated to the contemplative editions rather than flagged private. The README says the same since 2026-10-26; until then its phrase *private storyline thread* described the same gating in older words. On GitHub this repository is a fork of the sister board.
 
 Nothing here builds, tests or deploys. A pull request here changes `README.md`
 or this file, and the Discussions are administered in the repository's
