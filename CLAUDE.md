@@ -32,6 +32,25 @@ Discussions tab, not in git.
   per-viewpoint scene pages map by a permanent `comment_id` in their front
   matter, which moves with the content when chapters are renumbered. Nothing
   in this repository decides which page a thread belongs to.
+- **The README's *Taking part* section (added 2026-11-12, two days after the
+  sister board's) restates what star-rangers already says and rules nothing
+  of its own.** Its moderation sentence is the note under every page's
+  *Discussion* heading (`src/_includes/base.njk`, Dermot's ruling of
+  2026-09-04), and the rest follows that ruling's account of giscus. If the
+  note changes there, the README follows. The few house lines this board has
+  are in the welcome post Dermot posted on 2026-10-28 (discussion #4). A
+  fuller set of house rules or a code of conduct would be a policy document,
+  which the same ruling leaves to him to write; don't add one here.
+- **Which board a page posts to is settled by the live build, so check it on
+  a live page and not only in `giscus.js`.** A page of the thread
+  (`/lore/communion-of-the-called/` on church-space.site) should carry
+  `data-repo` for this repository, and a main-sequence chapter on the same
+  domain the sister board's. The ids matching proves only the first half: a
+  contemplative clone whose `deploy.conf` still sets
+  `GISCUS_PROFILE=church-space` puts its whole build on this board
+  (star-rangers `TECHNICAL-README.md`, *A second, separate forum for one
+  domain*), and the README's sentence about the shared board is then untrue
+  of that domain until the line is removed there.
 - **`scripts/fetch-giscus-ids.js` is an older copy of the star-rangers script
   of the same name and cannot run here**: it looks for `../src/_data/giscus.js`,
   which this repository does not have. The authoritative copy is
