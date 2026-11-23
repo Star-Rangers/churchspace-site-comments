@@ -41,6 +41,12 @@ Discussions tab, not in git.
   are in the welcome post Dermot posted on 2026-10-28 (discussion #4). A
   fuller set of house rules or a code of conduct would be a policy document,
   which the same ruling leaves to him to write; don't add one here.
+  The section's paragraph on starting a thread by hand (added 2026-11-23)
+  restates the welcome post's invitation and the category split in the
+  first bullet above, and rules nothing either; if a category's format
+  changes in the Discussions tab, that paragraph follows. It leaves
+  Announcements unnamed because that category's format (GitHub's default
+  keeps it to maintainers) can't be read from the API and wasn't checked.
 - **Which board a page posts to is settled by the live build, so check it on
   a live page and not only in `giscus.js`.** A page of the thread
   (`/lore/communion-of-the-called/` on church-space.site) should carry
