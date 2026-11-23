@@ -8,4 +8,6 @@ Comments on the site are powered by [giscus](https://giscus.app), which maps eac
 
 The usual way in is from the site itself. Each page of the thread that takes comments ends in a *Discussion* heading, and *Show discussion* under it opens that page's thread with a box to write in. Reading needs nothing; posting needs a GitHub account, because every comment is kept in a GitHub Discussion. A page's thread is created the first time someone comments on it, so a page with no thread here is one nobody has commented on yet.
 
+A thread that belongs to no one page can be started here directly, as the welcome post invites. The categories in the Discussions tab that are open for that are *General*, *Q&A*, *Theories & Predictions* and *Fan Creations*. *Characters*, *Lore & Worldbuilding*, *Episodes Discussion* and *Journal* hold the threads the site opens for its own pages, so GitHub offers no way to start one there by hand; a comment on a page goes in from the page itself.
+
 Comments are public as soon as they are posted. As the note on each page says, they are read after they are posted and anything unsuitable is removed.
